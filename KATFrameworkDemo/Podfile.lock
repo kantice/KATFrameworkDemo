@@ -1,0 +1,16 @@
+PODS:
+  - KATCoreUtil (1.0.0)
+
+DEPENDENCIES:
+  - KATCoreUtil
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - KATCoreUtil
+
+SPEC CHECKSUMS:
+  KATCoreUtil: 33e8075d50d5cc96dcb8a5a982c8ec0907d3693e
+
+PODFILE CHECKSUM: 23858804c6e5d851b3f67f120f445baefd698ec7
+
+COCOAPODS: 1.5.3
